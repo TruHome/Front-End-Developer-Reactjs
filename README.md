@@ -41,5 +41,5 @@ Benefits plan after three months
 Get in touch! Tell us about yourself and why you would be a great fit for TruHome. Please include a link to your Git Profile, a link to your portfolio or examples of your work, and a cover letter letting us know what interests you about the position!
 
 
-![TruHome Career](https://github.com/TruHome/Front-End-Developer-Reactjs/blob/master/F23615_20160818_042408.jpg)
+![TruHome Career](https://github.com/TruHome/Front-End-Developer-Reactjs/blob/master/F23615_20160818_04240.jpg)
 
