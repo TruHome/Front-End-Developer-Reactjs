@@ -1,11 +1,10 @@
-# Front-End-Developer-Reactjs
-Front-end JavaScript Developer (ReactJS) 
+# Front End Developer Reactjs
 
-### Location : Edmonton Alberta 
-### Willing to travel / relocate
-### Open to Canadian Residents only.
+#### Location : Edmonton Alberta 
+#### Willing to travel / relocate
+#### Open to Canadian Residents only.
 
-### Current Team
+#### Current Team
 
 * Product Manager
 * Back End Developer
