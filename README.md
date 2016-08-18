@@ -2,6 +2,7 @@
 Front-end JavaScript Developer (ReactJS) 
 
 ### Location : Edmonton Alberta 
+## Willing to travel/relocate
 
 ### Current Team
 
