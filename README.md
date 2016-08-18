@@ -2,7 +2,8 @@
 Front-end JavaScript Developer (ReactJS) 
 
 ### Location : Edmonton Alberta 
-## Willing to travel/relocate
+### Willing to travel / relocate
+### Open to Canadian Residents only.
 
 ### Current Team
 
@@ -11,7 +12,7 @@ Front-end JavaScript Developer (ReactJS)
 * UI/UX Designer 
 * Natural Language Engineer 
 
-### Open to Canadian Residents only.
+## What we are looking for
 
 Are you a Front-End Developer who loves to combine the art of programming with the art of design? Do you create great code that is well organized and well structured? Do you have a passion to create a great user experience by visualizing each step the user will take and breaking them into usable components? We are looking for you!
 
