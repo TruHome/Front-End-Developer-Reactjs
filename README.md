@@ -14,7 +14,7 @@
 
 ## What we are looking for
 
-Are you a Front-End Developer who loves to combine the art of programming with the art of design? Do you create great code that is well organized and well structured? Do you have a passion to create a great user experience by visualizing each step the user will take and breaking them into usable components? We are looking for you!
+Are you a Front-End Developer who wants to change the world of real estate forever? Do you want to work with a small team of people who are passionate about the same thing? We are looking for the last person to round out our A-team and it could be you. Be warned: passengers need not apply.
 
 ### Let’s Talk About What You Need to be Successful
 
@@ -35,9 +35,10 @@ Are you a Front-End Developer who loves to combine the art of programming with t
 * Experience working within a team environment especially working with designers or product owners
 
 ##Benefits of the Role
-We believe in continuous growth and will continue to foster your career
-Every member of the team is a big part of the success. We love open communication and new ideas as they allow to thrive
-Benefits plan after three months
+* You will be continuously challenged and our team will be constantly pushing our creations out to the world and seeing what they do
+* Our team will succeed and learn together
+* Open communications and experimentation are encouraged
+* Benefits plan after three months
 
 ## Sounds like you?
 Get in touch! Tell us about yourself and why you would be a great fit for TruHome. Please include a link to your Git Profile, a link to your portfolio or examples of your work, and a cover letter letting us know what interests you about the position!
