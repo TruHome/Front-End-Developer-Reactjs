@@ -1,5 +1,5 @@
 
-# Front End Developer Reactjs
+# Front End React Developer
 #### Location : Edmonton Alberta
 
 #### Must relocate or already live in Edmonton
