@@ -31,6 +31,8 @@ Are you a Front-End Developer who wants to change the world of real estate forev
 * Your ideas will be heard regardless of your seniority
 * Experimentation is encouraged
 * Comprehensive benefits package is offered
+* Flexible working hours
+* Educational spending account
 
 ## Sounds like you?
 
