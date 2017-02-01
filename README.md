@@ -1,4 +1,3 @@
-
 # Front End React Developer
 #### Location: Edmonton, Alberta
 
