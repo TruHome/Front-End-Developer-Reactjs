@@ -1,6 +1,6 @@
 
 # Front End React Developer
-#### Location : Edmonton Alberta
+#### Location: Edmonton, Alberta
 
 #### Must relocate or already live in Edmonton
 #### Open to Canadian Residents only.
